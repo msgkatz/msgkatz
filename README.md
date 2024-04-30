@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently pumpin' my leetcode acc: https://leetcode.com/u/glassberger/
+- 📫 Feel free to also check my github-page: https://msgkatz.github.io/
+
 <!--
 **msgkatz/msgkatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
